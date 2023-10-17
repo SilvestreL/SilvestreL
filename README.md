@@ -12,7 +12,7 @@
 ## 💻 Personal Information
 - Front-End Developer
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 - HTML e CSS
 - JavaScript
