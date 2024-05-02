@@ -10,7 +10,7 @@
 </p>
 
 ## 💻 Personal Information
-- Front-End Developer
+- FullStack Developer
 
 ## 🚀 Technologies
 
