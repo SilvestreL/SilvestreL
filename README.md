@@ -10,6 +10,7 @@
 </p>
 
 ## 💻 Personal Information
+- Project Manager T.I
 - FullStack Developer
 
 ## 🚀 Technologies
