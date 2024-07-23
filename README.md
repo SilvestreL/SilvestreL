@@ -17,11 +17,14 @@
 
 - HTML e CSS
 - JavaScript
--  TypeScript
+- Pyhton
 - Node.js
 - Git e Github
 - React
 - NextJS
+- JestJS
+- OpenSSL
+- Docker  
 - MongoDB / Firebase / MysSql / SQL / Sqlit
 
   
