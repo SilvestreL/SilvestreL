@@ -52,5 +52,5 @@
 ---
 
 [linkedin](https://linkedin.com/in/lucassilvestreee)
-[instagram](https://instagram.com/lucassilvestre)
+[instagram](https://instagram.com/lucassilvestrem)
 [email](mailto:lucassilvestreadv@Gmail.com)
