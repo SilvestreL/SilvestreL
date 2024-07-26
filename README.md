@@ -19,13 +19,13 @@
 - JavaScript
 - Pyhton
 - Node.js
-- Git e Github
-- React
 - NextJS
+- React
 - JestJS
 - OpenSSL
-- Docker  
-- MongoDB / Firebase / MysSql / SQL / Sqlit
+- Docker
+- Git e Github  
+- MongoDB / PostgreSQL / Firebase / MysSql / SQL / Sqlit
 
   
 [linkedin.](https://linkedin.com/in/lucassilvestreee)
