@@ -9,24 +9,22 @@
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;
 </p>
 
+A Few Words About Me
+I have a passion for learning and continuously improving my skills, always seeking innovative solutions to challenges. With a solid background in project management and full-stack development, I thrive in dynamic environments that value growth and innovation. My goal is to contribute effectively to projects and help drive success through my expertise and dedication.
+
+Feel free to explore my repositories and connect with me for any collaboration or project ideas!
+
 ## 💻 Personal Information
 - Project Manager T.I
 - FullStack Developer
 
 ## 🚀 Technologies
-
-- HTML e CSS
-- JavaScript
-- Python
-- Node.js
-- NextJS
-- React
-- API Rest
-- JestJS
-- OpenSSL
-- Docker
-- Git e Github
-- MongoDB / PostgreSQL / Firebase / MySQL / SQL / SQLite
+- **Frontend**: HTML, CSS, JavaScript, Python, React, NextJS, BootStrap, Tailwind
+- **Backend**: Node.js, API Rest, Python, OpenSSL
+- **Testing**: JestJS
+- **Containers**: Docker
+- **Version Control**: Git, GitHub
+- **Databases**: MongoDB, PostgreSQL, Firebase, MySQL, SQL, SQLite
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="HTML" width="50" height="50"/>
