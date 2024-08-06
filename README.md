@@ -9,7 +9,8 @@
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-A Few Words About Me
+
+## A Few Words About Me
 I have a passion for learning and continuously improving my skills, always seeking innovative solutions to challenges. With a solid background in project management and full-stack development, I thrive in dynamic environments that value growth and innovation. My goal is to contribute effectively to projects and help drive success through my expertise and dedication.
 
 Feel free to explore my repositories and connect with me for any collaboration or project ideas!
