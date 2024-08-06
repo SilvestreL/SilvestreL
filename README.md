@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my name is Lucas Silvestre, but you can call me SilvestreL</h1>
+<h1 align="center">Hi, my name is Lucas Silvestre, but you can call me Silvestre</h1>
 
 <p align="center">
 “If there is a way to do it better, find it.”. - Thomas Edison <br/>
