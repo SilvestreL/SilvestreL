@@ -20,7 +20,7 @@ Feel free to explore my repositories and connect with me for any collaboration o
 - FullStack Developer
 
 ## 🚀 Technologies
-- **Frontend**: HTML, CSS, JavaScript, Python, React, NextJS, BootStrap, Tailwind
+- **Frontend**: JavaScript, Python, React, Flask, NextJS, BootStrap, Tailwind
 - **Backend**: Node.js, API Rest, Python, OpenSSL
 - **Testing**: JestJS
 - **Containers**: Docker
