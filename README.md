@@ -26,34 +26,6 @@ Feel free to explore my repositories and connect with me for any collaboration o
 - **Containers**: Docker
 - **Version Control**: Git, GitHub
 - **Databases**: MongoDB, PostgreSQL, Firebase, MySQL, SQL, SQLite
-- ## 🚀 Tecnologias Utilizadas
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  
-  <!-- Next.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50" />
-  
-  <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  
-  <!-- Zustand -->
-  <img src="https://camo.githubusercontent.com/7cb21b9c299c39cd4c2cfddf51b4b89a408e4a328c6da754fa52e35d5bc08a10/68747470733a2f2f646f63732e7a757374616e642e6465762f6d656469612f6c6f676f2e737667" alt="Zustand" width="50" height="50"/>
-  
-  <!-- Tailwind CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50"/>
-  
-  <!-- Shadcn UI -->
-  <img src="https://avatars.githubusercontent.com/u/111945789?s=200&v=4" alt="Shadcn UI" width="50" height="50"/>
-  
-  <!-- Google Maps API -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Google_Maps_Logo.svg/512px-Google_Maps_Logo.svg.png" alt="Google Maps API" width="50" height="50"/>
-  
-  <!-- Jest -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="50" height="50"/>
-</div>
-
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="HTML" width="50" height="50"/>
