@@ -20,12 +20,13 @@ Feel free to explore my repositories and connect with me for any collaboration o
 - FullStack Developer
 
 ## 🚀 Technologies
-- **Frontend**: JavaScript, TypeScript, Python, React, Flask, NextJS, BootStrap, Tailwind
-- **Backend**: Node.js, API Rest, Python, OpenSSL
+- **Frontend**: JavaScript, TypeScript, Python, React, Flask, NextJS, BootStrap, Tailwind, ShadcnUI
+- **Backend**: Node.js, API Rest, Python, OpenSSL, Sequelize, Express. 
 - **Testing**: JestJS
 - **Containers**: Docker
 - **Version Control**: Git, GitHub
 - **Databases**: MongoDB, PostgreSQL, Firebase, MySQL, SQL, SQLite
+- **Others**: Zustand
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="HTML" width="50" height="50"/>
