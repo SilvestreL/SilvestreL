@@ -16,7 +16,7 @@ I have a passion for learning and continuously improving my skills, always seeki
 Feel free to explore my repositories and connect with me for any collaboration or project ideas!
 
 ## 💻 Personal Information
-- Project Manager T.I
+- Product Owner T.I
 - FullStack Developer
 
 ## 🚀 Technologies
