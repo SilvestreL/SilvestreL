@@ -16,34 +16,6 @@ I have a passion for learning and continuously improving my skills, always seeki
 Feel free to explore my repositories and connect with me for any collaboration or project ideas!
 
 ## 💻 Personal Information
-- Product Owner T.I
-- FullStack Developer
-
-## 🚀 Technologies
-- **Frontend**: JavaScript, TypeScript, Python, React, Flask, NextJS, BootStrap, Tailwind, ShadcnUI
-- **Backend**: Node.js, API Rest, Python, OpenSSL, Sequelize, Express. 
-- **Testing**: JestJS
-- **Containers**: Docker
-- **Version Control**: Git, GitHub
-- **Databases**: MongoDB, PostgreSQL, Firebase, MySQL, SQL, SQLite
-- **Others**: Zustand<h1 align="center">Hi, my name is Lucas Silvestre, but you can call me Silvestre</h1>
-
-<p align="center">
-“If there is a way to do it better, find it.”. - Thomas Edison <br/>
-</p>
-
-<p align="center">
-  <a href="#-personal-information">Personal Information</a>&nbsp;| 
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;
-</p>
-
-
-## A Few Words About Me
-I have a passion for learning and continuously improving my skills, always seeking innovative solutions to challenges. With a solid background in project management and full-stack development, I thrive in dynamic environments that value growth and innovation. My goal is to contribute effectively to projects and help drive success through my expertise and dedication.
-
-Feel free to explore my repositories and connect with me for any collaboration or project ideas!
-
-## 💻 Personal Information
 - Project Manager T.I
 - FullStack Developer
 
