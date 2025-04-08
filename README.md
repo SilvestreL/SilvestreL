@@ -22,7 +22,7 @@ Feel free to explore my repositories and connect with me for any collaboration o
 - **Frontend**: React, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript, TypeScript.
 - **Backend**: Node.js (Express), Python (Django, Flask, FastAPI), Java (Spring Boot) RabbitMQ,.
 - **Testing**: JestJS, Pytest.
-- **DevOPS**: DevOps: Docker, Git, GitHub Actions, Cloud(AWS).
+- **DevOPS**: Docker, Git, GitHub Actions, Cloud(AWS).
 - **Databases**: MongoDB, PostgreSQL, Firebase, MySQL, SQL, SQLite.
 - **Others**: Integration with external services, including payment gateways, authentication systems, notification services, and AI-powered solutions.
 
