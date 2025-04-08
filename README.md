@@ -16,17 +16,15 @@ I have a passion for learning and continuously improving my skills, always seeki
 Feel free to explore my repositories and connect with me for any collaboration or project ideas!
 
 ## 💻 Personal Information
-- Product Owner T.I
 - FullStack Developer
 
 ## 🚀 Technologies
-- **Frontend**: TypeScript, JavaScript, Python, React, Flask, NextJS, BootStrap, Tailwind, ShadcnUI
-- **Backend**: Node.js, API Rest, Python, OpenSSL, Sequelize, Express , Prima. 
-- **Testing**: JestJS
-- **Containers**: Docker
-- **Version Control**: Git, GitHub
+- **Frontend**: React, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript, TypeScript.
+- **Backend**: Node.js (Express), Python (Django, Flask, FastAPI), Java (Spring Boot) RabbitMQ,.
+- **Testing**: JestJS, Pytest.
+- **DevOPS**: DevOps: Docker, Git, GitHub Actions, Cloud(AWS).
 - **Databases**: MongoDB, PostgreSQL, Firebase, MySQL, SQL, SQLite.
-- **Others**: Zustand, Zod.
+- **Others**: Integration with external services, including payment gateways, authentication systems, notification services, and AI-powered solutions.
 
 <p align="center">
 <div align="left">
