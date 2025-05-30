@@ -1,88 +1,61 @@
-<h1 align="center">Hi, my name is Lucas Silvestre, but you can call me Silvestre</h1>
+<h1 align="center">👋 Hey, I'm Lucas Silvestre – but you can call me Silvestre</h1>
 
 <p align="center">
-“If there is a way to do it better, find it.”. - Thomas Edison <br/>
+  <em>“If there is a way to do it better, find it.” – Thomas Edison</em><br/><br/>
 </p>
 
 <p align="center">
-  <a href="#-personal-information">Personal Information</a>&nbsp;| 
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;
-</p>
-
-
-## A Few Words About Me
-I have a passion for learning and continuously improving my skills, always seeking innovative solutions to challenges. With a solid background in project management and full-stack development, I thrive in dynamic environments that value growth and innovation. My goal is to contribute effectively to projects and help drive success through my expertise and dedication.
-
-Feel free to explore my repositories and connect with me for any collaboration or project ideas!
-
-## 💻 Personal Information
-- FullStack Developer
-
-## 🚀 Technologies
-- **Frontend**: React, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript, TypeScript.
-- **Backend**: Node.js (Express), Python (Django, Flask, FastAPI), Java (Spring Boot) RabbitMQ,.
-- **Testing**: JestJS, Pytest.
-- **DevOPS**: Docker, Git, GitHub Actions, Cloud(AWS).
-- **Databases**: MongoDB, PostgreSQL, Firebase, MySQL, SQL, SQLite.
-- **Others**: Integration with external services, including payment gateways, authentication systems, notification services, and AI-powered solutions.
-
-<p align="center">
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-</div>
-
-###
+  <a href="#-about-me">About Me</a> • 
+  <a href="#-tech-stack">Tech Stack</a> • 
+  <a href="#-contact">Contact</a>
 </p>
 
 ---
 
-[linkedin](https://linkedin.com/in/lucassilvestreee)
-[instagram](https://instagram.com/lucassilvestrem)
-[email](mailto:lucassilvestreadv@Gmail.com)
+## 👨‍💻 About Me
+
+I'm a Full Stack Developer passionate about solving complex problems and building scalable, data-driven solutions.  
+With a strong background in distributed systems, DevOps, and product development, I work across the entire software lifecycle — from architecture and API design to deployment and monitoring.
+
+I'm driven by challenge, continuous learning, and the balance between **technical precision** and **strategic business value**.
+
+Feel free to explore my projects or reach out for collaboration!
+
 ---
 
-[linkedin](https://linkedin.com/in/lucassilvestreee)
-[instagram](https://instagram.com/lucassilvestrem)
-[email](mailto:lucassilvestreadv@Gmail.com)
+## 🚀 Tech Stack
+
+### FRONT-END  
+React • Next.js • Tailwind CSS • TypeScript • JavaScript • HTML5 • CSS3
+
+### BACK-END  
+Node.js (Express) • NestJS • Python (Django, FastAPI, Flask) • Java (Spring Boot)
+
+### APIs & INTEGRATIONS  
+RESTful APIs • WebSockets • RabbitMQ • Kafka • External Services Integration (Payment, Auth, Notifications, AI)
+
+### DATABASES  
+PostgreSQL • MySQL • MongoDB • Firebase • Redis
+
+### ARCHITECTURE & PATTERNS  
+Microservices • Clean Architecture • SOLID • DDD • MVC • Design Patterns • BFF
+
+### DEVOPS & CLOUD  
+Docker • Docker Compose • GitHub Actions • Azure DevOps • CI/CD Pipelines • AWS • Azure
+
+### OBSERVABILITY & QUALITY  
+ElasticSearch • Kibana • Logging estruturado • Automated Tests (Jest, Pytest) • SSR • JWT Auth • Versioning
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucassilvestreee)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/lucassilvestrem)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucassilvestreadv@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,java,spring,python,django,fastapi,postgres,mysql,mongodb,redis,aws,docker,git,github,tailwind,html,css" />
+</p>
