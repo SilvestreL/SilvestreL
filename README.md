@@ -10,10 +10,7 @@
   <a href="#-contact">Contact</a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
+## A Few Words About Me
 I'm a Full Stack Developer passionate about solving complex problems and building scalable, data-driven solutions.  
 With a strong background in distributed systems, DevOps, and product development, I work across the entire software lifecycle — from architecture and API design to deployment and monitoring.
 
@@ -21,41 +18,25 @@ I'm driven by challenge, continuous learning, and the balance between **technica
 
 Feel free to explore my projects or reach out for collaboration!
 
----
+## 💻 Personal Information
+- FullStack Developer
 
-## 🚀 Tech Stack
-
-### FRONT-END  
-React • Next.js • Tailwind CSS • TypeScript • JavaScript • HTML5 • CSS3
-
-### BACK-END  
-Node.js (Express) • NestJS • Python (Django, FastAPI, Flask) • Java (Spring Boot)
-
-### APIs & INTEGRATIONS  
-RESTful APIs • WebSockets • RabbitMQ • Kafka • External Services Integration (Payment, Auth, Notifications, AI)
-
-### DATABASES  
-PostgreSQL • MySQL • MongoDB • Firebase • Redis
-
-### ARCHITECTURE & PATTERNS  
-Microservices • Clean Architecture • SOLID • DDD • MVC • Design Patterns • BFF
-
-### DEVOPS & CLOUD  
-Docker • Docker Compose • GitHub Actions • Azure DevOps • CI/CD Pipelines • AWS • Azure
-
-### OBSERVABILITY & QUALITY  
-ElasticSearch • Kibana • Logging estruturado • Automated Tests (Jest, Pytest) • SSR • JWT Auth • Versioning
-
----
-
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucassilvestreee)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/lucassilvestrem)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucassilvestreadv@gmail.com)
-
----
+## 🚀 Technologies
+- **Frontend**: React • Next.js • Tailwind CSS • TypeScript • JavaScript • HTML5 • CSS3 .
+- **Backend**: Node.js (Express) • NestJS • Python (Django, FastAPI, Flask) • Java (Spring Boot),
+- **Api/Integrations**: RESTful APIs • WebSockets • RabbitMQ • Kafka • External Services Integration (Payment, Auth, Notifications, AI) 
+- **Testing**: JestJS • Pytest • Supertest • Vitest.
+- **DevOPS**: Docker • Docker Compose • Git • GitHub Actions • Azure DevOps • CI/CD Pipelines • Cloud (AWS, Azure).
+- **Databases**: PostgreSQL • MySQL • MongoDB • Firebase • Redis • SQLite.
+- **Architecture & Patterns**: Microservices • Clean Architecture • SOLID • DDD • MVC • Design Patterns • BFF.
+- **Others**: Integration with external services, including payment gateways, authentication systems, notification services, and AI-powered solutions • ElasticSearch • Kibana • Logging estruturado • Automated Tests • SSR • JWT Auth • Versioning • Server Components (React 19).
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,java,spring,python,django,fastapi,postgres,mysql,mongodb,redis,aws,docker,git,github,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,java,spring,python,django,postgres,mysql,mongodb,aws,docker,git,github,tailwind,kafka,redis,express,flask,fastapi,sqlite," />
 </p>
+
+---
+
+[linkedin](https://linkedin.com/in/lucassilvestreee)  
+[instagram](https://instagram.com/lucassilvestrem)  
+[email](mailto:lucassilvestreadv@gmail.com)
