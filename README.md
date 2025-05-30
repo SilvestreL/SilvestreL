@@ -36,7 +36,6 @@ Feel free to explore my projects or reach out for collaboration!
 </p>
 
 ---
-
 [linkedin](https://linkedin.com/in/lucassilvestreee)  
 [instagram](https://instagram.com/lucassilvestrem)  
-[email](mailto:lucassilvestreadv@gmail.com)
+[email](mailto:lsm.silvestre@gmail.com)
